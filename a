@@ -35,7 +35,9 @@ zip -r "${archive}" . \
      ".ruff_cache/*" \
      "dist/*" \
      "build/*" \
-     "*.egg-info/*"
+     "*.egg-info/*" \
+     "logs/*.log" \
+     "${PROJECT_NAME}_v*_current.zip"
 
 echo
 echo "Done:"
