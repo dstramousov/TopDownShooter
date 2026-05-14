@@ -9,6 +9,9 @@
 
 ## Что уже есть
 
+<img width="1273" height="935" alt="Screenshot from 2026-05-14 13-30-44" src="https://github.com/user-attachments/assets/a107ee09-5487-4469-8109-b3ef452e362c" />
+
+
 - статическая debug-карта с домом и двором;
 - procedural generator `small / medium / large`;
 - чистая модель карты, не зависящая от Pyray;
