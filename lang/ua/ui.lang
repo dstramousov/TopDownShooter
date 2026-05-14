@@ -1,0 +1,43 @@
+app.title=Top Down Shooter
+map.mode=Режим мапи
+map.seed=Сід
+map.size=Розмір
+map.help=F1: оверлей | 1-4: режим мапи | R: перегенерація | F4: контур
+map.debug_static=Статична debug-мапа
+map.generated_small=Згенерована мала
+map.generated_medium=Згенерована середня
+map.generated_large=Згенерована велика
+map.blockers=Контур перешкод
+
+player.position=Позиція гравця
+player.tile=Тайл гравця
+player.speed=Швидкість
+player.facing=Кут погляду
+player.aim=Світові координати курсора
+player.help=WASD/Стрілки: рух | Миша: приціл
+
+combat.weapon=Зброя
+combat.fire_interval=Інтервал вогню
+combat.damage=Шкода
+combat.tracers=Активні трасери
+combat.impacts=Сліди влучань
+combat.cooldown=Кулдаун пострілу
+combat.help=ЛКМ: вогонь | Q: зброя | F2: хітбокси | F3: промінь
+combat.range=Дальність зброї
+combat.hit_distance=Дистанція до перешкоди
+combat.hit_surface=Поверхня попадання
+combat.debug_beam=Дебаг промінь
+combat.debris=Частинки уламків
+combat.flashes=Спалахи дула
+
+enemy.count=Живі вороги
+enemy.alerted=Вороги бачать гравця
+enemy.vision_debug=Дебаг зору
+enemy.help=F5: конус зору ворогів
+
+player.health=Здоровʼя
+hud.player_hp=HP
+hud.weapon=Зброя
+hud.enemies=Вороги
+hud.game_over=ГРУ ЗАКІНЧЕНО
+hud.game_over_help=Натисни Enter або Space для рестарту

@@ -1,0 +1,43 @@
+app.title=Top Down Shooter
+map.mode=Map mode
+map.seed=Seed
+map.size=Size
+map.help=F1: overlay | 1-4: map mode | R: reroll | F4: blockers
+map.debug_static=Debug static
+map.generated_small=Generated small
+map.generated_medium=Generated medium
+map.generated_large=Generated large
+map.blockers=Blocker overlay
+
+player.position=Player position
+player.tile=Player tile
+player.speed=Speed
+player.facing=Facing angle
+player.aim=Cursor world
+player.help=WASD/Arrows: move | Mouse: aim | Enter/Space: restart after death
+
+combat.weapon=Weapon
+combat.fire_interval=Fire interval
+combat.damage=Damage
+combat.tracers=Active tracers
+combat.impacts=Impact marks
+combat.cooldown=Shot cooldown
+combat.help=LMB: fire | Q: weapon | F2: hitboxes | F3: beam
+combat.range=Weapon range
+combat.hit_distance=Obstacle distance
+combat.hit_surface=Hit surface
+combat.debug_beam=Debug beam
+combat.debris=Debris particles
+combat.flashes=Muzzle flashes
+
+enemy.count=Alive enemies
+enemy.alerted=Enemies seeing player
+enemy.vision_debug=Vision debug
+enemy.help=F5: enemy vision cone
+
+player.health=Health
+hud.player_hp=HP
+hud.weapon=Weapon
+hud.enemies=Enemies
+hud.game_over=GAME OVER
+hud.game_over_help=Press Enter or Space to restart
