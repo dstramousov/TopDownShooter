@@ -1,0 +1,18 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "topdown-shooter"
+version = "0.3.0"
+description = "Step 3 playable core for a procedural top-down shooter on Pyray."
+requires-python = ">=3.12"
+dependencies = [
+    "numpy>=1.26",
+    "pyray>=0.1.0",
+]
+
+[tool.pytest.ini_options]
+pythonpath = ["src"]
+testpaths = ["tests"]
+addopts = "-q"
