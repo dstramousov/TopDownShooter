@@ -1,6 +1,5 @@
-# Top Down Shooter — Step 6 (Pyray)
+# Top Down Shooter — (Pyray)
 
-Шестой технический шаг проекта под согласованный стек:
 - Python 3.12+
 - Pyray только как слой окна / рендера / ввода
 - NumPy для хранения tilemap
